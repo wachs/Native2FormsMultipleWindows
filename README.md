@@ -8,4 +8,5 @@ Author
 ------
 
 Sample created by David Britch
+
 Edited to add new windows by Edwin Wachs
